@@ -1,3 +1,10 @@
+# Jika JWT tidak ada file bisa 
+
+bisa didownload di -> git clone https://github.com/firebase/php-jwt.git
+dan taro di folder app->ThridParty->Firebase->JWT
+untuk file BeforeValidException.php, ExpiredException.php, JWK.php, JWT.php dan SignatureInvalidException.php
+sebelumnya berada di dalam folder src silahkan anda keluarkan dan taro di folder JWT
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
