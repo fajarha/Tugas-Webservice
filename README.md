@@ -1,4 +1,4 @@
-# Jika JWT tidak ada file bisa 
+# Jika JWT Tidak Ada File
 
 bisa didownload di -> git clone https://github.com/firebase/php-jwt.git
 dan taro di folder app->ThridParty->Firebase->JWT
